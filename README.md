@@ -1,4 +1,4 @@
-# GT-Introduction-to-User-Expeeerience-Design-Online-
+# GT-Introduction-to-User-Experience-Design-Online-
 If you found my project helpful, please give me some stars! ⭐<br>
 Your recognition is my biggest encouragement. 😊🌟<br>
 This project is based on the course:  
